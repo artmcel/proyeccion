@@ -1,6 +1,6 @@
-# Webpack starter
+# Proyecto de Proyección profesional UNIMEX
 
-Este es el proyecto inicial webpack v5.
+este es el proyecto de proyección profesional unimex, desarrollado con webpack v5
 
 ## Notas:
 
