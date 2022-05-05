@@ -7,7 +7,7 @@
 
 /*body*/
 .bg{
-    background-image: url(../img/web/bg01.png);
+    background-image: url(./img/bg01.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -89,7 +89,7 @@ form button[type="submit"]{
 
     /*body*/
     .bg{
-        background-image: url(../img/mobile/background-mobile.png);
+        background-image: url(./img/background-mobile.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -125,7 +125,7 @@ form button[type="submit"]{
 
     /*body*/
     .bg{
-        background-image: url(../img/mobile/background-mobile.png);
+        background-image: url(./img/background-mobile.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -162,7 +162,7 @@ form button[type="submit"]{
 @media (min-width: 768px) and (max-width: 991.98px) {
 
     .bg{
-        background-image: url(../img/web/bg01.png);
+        background-image: url(./img/bg01.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -187,7 +187,7 @@ form button[type="submit"]{
 @media (min-width: 992px) and (max-width: 1199.98px) {
     
     .bg{
-        background-image: url(../img/web/bg01.png);
+        background-image: url(./img/bg01.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -212,7 +212,7 @@ form button[type="submit"]{
 @media (min-width: 1200px) and (max-width: 1600px) {
 
     .bg{
-        background-image: url(../img/web/bg01.png);
+        background-image: url(./img/bg01.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
